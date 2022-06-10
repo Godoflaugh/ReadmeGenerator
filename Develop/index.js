@@ -60,7 +60,6 @@ const init = () => {
   questions()
     .then((data) => fs.writeFile('README.md', generateMarkdown(data), (err) => err ? console.log(err) : console.log('Successfully created README.md')
     ))
-
 }
 
 // Hold code
