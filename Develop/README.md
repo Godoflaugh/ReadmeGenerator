@@ -1,7 +1,7 @@
-# asdf [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Readme Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  dfdf
+  A CLI readme generator
 
   ## License Badge
   
@@ -16,10 +16,10 @@
 6. [Questions](#questions)
 
 ## Installation
-df
+Clone repo from link below and run in VScode or preferred program
 
 ## Usage
-df
+Run this line of code "node index.js"
 
 ## License
 MIT License
@@ -34,11 +34,11 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 
 ## Test
-df
+n/s
 
 ## Contribution
-df
+Kevin Lam original creator
 
 ## Questions
-* If you have any questions, email me at: df,
-* GitHub Profile Link: https://github.com/df
+* If you have any questions, email me at: lam.kevin91@gmail.com,
+* GitHub Profile Link: https://github.com/Godoflaugh

@@ -31,7 +31,7 @@ const questions = () => {
       type: 'checkbox',
       name: 'license',
       message: "Select your license",
-      choices: ['Apache License 2.0', 'GNU General Public License v3.0', 'MIT License', 'BSD 2-Clause "Simplified License'],
+      choices: ['Apache License 2.0', 'GNU General Public License v3.0', 'MIT License', 'BSD 2-Clause Simplified License'],
     },
     {
       type: 'input',
